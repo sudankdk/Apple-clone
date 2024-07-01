@@ -1,5 +1,9 @@
 const Highlights = () => {
-  return <section></section>;
+  return (
+    <section>
+      <div></div>
+    </section>
+  );
 };
 
 export default Highlights;
